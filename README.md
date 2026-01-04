@@ -169,7 +169,7 @@ ssize_t read(int fd, void *buf, size_t count);
 
 ## 🤝 Kontribusi
 
-Silakan buat pull request jika ingin menambahkan contoh!
+Silakan buat pull request jika ingin menambahkan contoh! Terima Kasih!
 
 ## 📄 Lisensi
 
